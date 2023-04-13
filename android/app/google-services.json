@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "65601322682",
+    "project_id": "minikasi-ea0ca",
+    "storage_bucket": "minikasi-ea0ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65601322682:android:c63782004c174eacc6cc83",
+        "android_client_info": {
+          "package_name": "com.example.minikasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65601322682-nk529477k745bpfp6m39vg0ai5n1ho27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.minikasi",
+            "certificate_hash": "30b6a1d829354a7ed3c7ed10d762d2c544ed14a9"
+          }
+        },
+        {
+          "client_id": "65601322682-krc7b91i6gvonffmcj3v8e3vt4tgrob2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtmmY58yC32cGGqFvurR2pUFYR1LSWMzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65601322682-krc7b91i6gvonffmcj3v8e3vt4tgrob2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "65601322682-hjc0uh4m5inuc1hkn2cb51atgh4qlaeo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.minikasi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
