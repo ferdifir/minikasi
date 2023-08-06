@@ -1,0 +1,3 @@
+var data1 ={100101: [{"tanggal": '', "keterangan": "Saldo Awal", "debit": 0, "kredit": 0}, {"tanggal": 3-4-2023, "keterangan": "Perbaiki Laptop Karyawan", "debit": 0, "kredit": 800}], 100201: [{"tanggal": '', "keterangan": "Saldo Awal", "debit": 0, "kredit": 0}, {"tanggal": 9-4-2023, "keterangan": "Test", "debit": 50, "kredit": 0}, {"tanggal": 4-4-2023, "keterangan": "Beli Makan mie ayam", "debit": 0, "kredit": 4000}],};
+
+var data2 = [{"accountCode": 100101, "accountName": "Kas", "accountType": "Current Asset"}, {"accountCode": 100201, "accountName": "Kas di Bank", "accountType": "Current Asset"}, ];
